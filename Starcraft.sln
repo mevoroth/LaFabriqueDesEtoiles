@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Starcraft\Starcraft\Client.csproj", "{296D8D0E-1E77-4B98-BF75-C658FD43C4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientContent", "Starcraft\StarcraftContent\ClientContent.contentproj", "{939D9481-E407-47D3-B2EB-93249923FBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server\Server.csproj", "{982235CD-D6DB-4600-9EA7-4B6FACD2A289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerContent", "Server\ServerContent\ServerContent.contentproj", "{9F8280D7-4C81-4D1A-A24C-2208B5806065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher", "Launcher\Launcher.csproj", "{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296D8D0E-1E77-4B98-BF75-C658FD43C4D5}.Debug|x64.ActiveCfg = Debug|x86
+		{296D8D0E-1E77-4B98-BF75-C658FD43C4D5}.Debug|x86.ActiveCfg = Debug|x86
+		{296D8D0E-1E77-4B98-BF75-C658FD43C4D5}.Debug|x86.Build.0 = Debug|x86
+		{296D8D0E-1E77-4B98-BF75-C658FD43C4D5}.Release|x64.ActiveCfg = Release|x86
+		{296D8D0E-1E77-4B98-BF75-C658FD43C4D5}.Release|x86.ActiveCfg = Release|x86
+		{296D8D0E-1E77-4B98-BF75-C658FD43C4D5}.Release|x86.Build.0 = Release|x86
+		{939D9481-E407-47D3-B2EB-93249923FBE7}.Debug|x64.ActiveCfg = Debug|x86
+		{939D9481-E407-47D3-B2EB-93249923FBE7}.Debug|x86.ActiveCfg = Debug|x86
+		{939D9481-E407-47D3-B2EB-93249923FBE7}.Release|x64.ActiveCfg = Release|x86
+		{939D9481-E407-47D3-B2EB-93249923FBE7}.Release|x86.ActiveCfg = Release|x86
+		{982235CD-D6DB-4600-9EA7-4B6FACD2A289}.Debug|x64.ActiveCfg = Debug|x86
+		{982235CD-D6DB-4600-9EA7-4B6FACD2A289}.Debug|x64.Build.0 = Debug|x86
+		{982235CD-D6DB-4600-9EA7-4B6FACD2A289}.Debug|x86.ActiveCfg = Debug|x86
+		{982235CD-D6DB-4600-9EA7-4B6FACD2A289}.Debug|x86.Build.0 = Debug|x86
+		{982235CD-D6DB-4600-9EA7-4B6FACD2A289}.Release|x64.ActiveCfg = Release|x86
+		{982235CD-D6DB-4600-9EA7-4B6FACD2A289}.Release|x86.ActiveCfg = Release|x86
+		{982235CD-D6DB-4600-9EA7-4B6FACD2A289}.Release|x86.Build.0 = Release|x86
+		{9F8280D7-4C81-4D1A-A24C-2208B5806065}.Debug|x64.ActiveCfg = Debug|x86
+		{9F8280D7-4C81-4D1A-A24C-2208B5806065}.Debug|x86.ActiveCfg = Debug|x86
+		{9F8280D7-4C81-4D1A-A24C-2208B5806065}.Release|x64.ActiveCfg = Release|x86
+		{9F8280D7-4C81-4D1A-A24C-2208B5806065}.Release|x86.ActiveCfg = Release|x86
+		{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}.Debug|x64.ActiveCfg = Debug|x64
+		{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}.Debug|x64.Build.0 = Debug|x64
+		{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}.Debug|x86.ActiveCfg = Debug|x86
+		{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}.Debug|x86.Build.0 = Debug|x86
+		{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}.Release|x64.ActiveCfg = Release|x64
+		{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}.Release|x64.Build.0 = Release|x64
+		{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}.Release|x86.ActiveCfg = Release|x86
+		{1B5E5F2E-55A4-4D32-94CA-9CE2AF685BC5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
